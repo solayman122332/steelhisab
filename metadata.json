@@ -1,0 +1,6 @@
+{
+  "name": "SteelHisab - Steel Trading & LC Partnership Bookkeeping",
+  "description": "Dark-mode mobile and web bookkeeping tailored for Bangladeshi steel trading, LC coil tracking, bank ledgers, and 3-pool partner profit distribution (TOTAL HISAB).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
